@@ -13,7 +13,7 @@ This is my GitHub profile page, where you can learn a little bit about me and wh
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">](https://golang.org/)
 [<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">](https://www.gnu.org/software/bash/)
-![](https://img.shields.io/badge/:badgeContent?logo=terraform)
+[<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">](https://terraform.io)
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://www.javascript.com/)
 
 #### Platforms I've Used
